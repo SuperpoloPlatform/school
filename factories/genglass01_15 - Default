@@ -1,0 +1,20 @@
+<library>
+  <meshfact name='genglass01_15 - Default'>
+    <plugin>genmeshfact</plugin>
+    <priority>alpha</priority>
+    <zuse/>
+    <params>
+      <material>15 - Default</material>
+      <mixmode><add/></mixmode>
+      <v x="0.000000" y="-1.297401" z="5.005300" u="0.000000" v="-0.328374" nx="-1.000000" ny="0.000000" nz="0.000000"/>
+      <v x="0.000000" y="-1.297401" z="-5.005252" u="1.000000" v="-0.328374" nx="-1.000000" ny="0.000000" nz="0.000000"/>
+      <v x="0.000000" y="1.297401" z="-5.005252" u="1.000000" v="-0.328374" nx="-1.000000" ny="0.000000" nz="0.000000"/>
+      <t v1="2" v2="1" v3="0"/>
+      <v x="0.000000" y="1.297401" z="5.005300" u="0.000000" v="-0.328374" nx="-1.000000" ny="0.000000" nz="0.000000"/>
+      <t v1="2" v2="0" v3="3"/>
+<mixmode><add>
+0.5
+</add></mixmode>
+    </params>
+  </meshfact>
+</library>
